@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# Compiled object files
+*.o
+*.out
+*.obj
+
+# Executable files
+*.exe
+*.bin
+*.elf
+
+# Debug and log files
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.swp
